@@ -1,0 +1,58 @@
+[
+    {
+        "text": "Why don't you just cook the breakfast and try not to burn anything?",
+        "start_time": 47.36,
+        "end_time": 50.48,
+        "video_clip": "/home/cvpr_phd_1/1_movie_clips_dataset/6_word/anger/Harry Potter and the Sorcerer's Stone (2001) - Harry's Warning/clip_0.mp4",
+        "audio_clip": "/home/cvpr_phd_1/1_movie_clips_dataset/6_word/anger/Harry Potter and the Sorcerer's Stone (2001) - Harry's Warning/clip_0.mp3"
+    },
+    {
+        "text": "I want everything to be perfect for my Dudley's special day.",
+        "start_time": 52.08,
+        "end_time": 59.08,
+        "video_clip": "/home/cvpr_phd_1/1_movie_clips_dataset/6_word/anger/Harry Potter and the Sorcerer's Stone (2001) - Harry's Warning/clip_1.mp4",
+        "audio_clip": "/home/cvpr_phd_1/1_movie_clips_dataset/6_word/anger/Harry Potter and the Sorcerer's Stone (2001) - Harry's Warning/clip_1.mp3"
+    },
+    {
+        "text": "36? But last year, last year I had 37.",
+        "start_time": 74.76,
+        "end_time": 77.36,
+        "video_clip": "/home/cvpr_phd_1/1_movie_clips_dataset/6_word/anger/Harry Potter and the Sorcerer's Stone (2001) - Harry's Warning/clip_2.mp4",
+        "audio_clip": "/home/cvpr_phd_1/1_movie_clips_dataset/6_word/anger/Harry Potter and the Sorcerer's Stone (2001) - Harry's Warning/clip_2.mp3"
+    },
+    {
+        "text": "Yes, but some of them are quite a bit bigger than last year.",
+        "start_time": 77.78,
+        "end_time": 80.4,
+        "video_clip": "/home/cvpr_phd_1/1_movie_clips_dataset/6_word/anger/Harry Potter and the Sorcerer's Stone (2001) - Harry's Warning/clip_3.mp4",
+        "audio_clip": "/home/cvpr_phd_1/1_movie_clips_dataset/6_word/anger/Harry Potter and the Sorcerer's Stone (2001) - Harry's Warning/clip_3.mp3"
+    },
+    {
+        "text": "I don't care how big they are.",
+        "start_time": 80.64,
+        "end_time": 81.92,
+        "video_clip": "/home/cvpr_phd_1/1_movie_clips_dataset/6_word/anger/Harry Potter and the Sorcerer's Stone (2001) - Harry's Warning/clip_4.mp4",
+        "audio_clip": "/home/cvpr_phd_1/1_movie_clips_dataset/6_word/anger/Harry Potter and the Sorcerer's Stone (2001) - Harry's Warning/clip_4.mp3"
+    },
+    {
+        "text": "No, no, no, no. This is what we're going to do.",
+        "start_time": 82.04,
+        "end_time": 83.64,
+        "video_clip": "/home/cvpr_phd_1/1_movie_clips_dataset/6_word/anger/Harry Potter and the Sorcerer's Stone (2001) - Harry's Warning/clip_5.mp4",
+        "audio_clip": "/home/cvpr_phd_1/1_movie_clips_dataset/6_word/anger/Harry Potter and the Sorcerer's Stone (2001) - Harry's Warning/clip_5.mp3"
+    },
+    {
+        "text": "He said, let me go out. We're going to buy you two new presents.",
+        "start_time": 84.04,
+        "end_time": 86.88,
+        "video_clip": "/home/cvpr_phd_1/1_movie_clips_dataset/6_word/anger/Harry Potter and the Sorcerer's Stone (2001) - Harry's Warning/clip_6.mp4",
+        "audio_clip": "/home/cvpr_phd_1/1_movie_clips_dataset/6_word/anger/Harry Potter and the Sorcerer's Stone (2001) - Harry's Warning/clip_6.mp3"
+    },
+    {
+        "text": "and you won't have any meals for a week.",
+        "start_time": 105.98,
+        "end_time": 108.32,
+        "video_clip": "/home/cvpr_phd_1/1_movie_clips_dataset/6_word/anger/Harry Potter and the Sorcerer's Stone (2001) - Harry's Warning/clip_7.mp4",
+        "audio_clip": "/home/cvpr_phd_1/1_movie_clips_dataset/6_word/anger/Harry Potter and the Sorcerer's Stone (2001) - Harry's Warning/clip_7.mp3"
+    }
+]

@@ -1,0 +1,13 @@
+Input:outputs\clip_6\frames
+Input full path:C:\Users\Avinash\Desktop\openFace\outputs\clip_6\frames
+Camera parameters:1312.5,1312.5,960,540
+Output HOG:frames.hog
+Output video:frames.avi
+Output aligned directory:frames_aligned
+Output csv:frames.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1
